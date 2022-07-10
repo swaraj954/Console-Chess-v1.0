@@ -1,0 +1,2 @@
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Debug\Single Player Chess.exe
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Debug\Single Player Chess.pdb

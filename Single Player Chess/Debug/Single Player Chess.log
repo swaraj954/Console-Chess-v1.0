@@ -1,0 +1,15 @@
+﻿  GameBoard.cpp
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\GameBoard.cpp(530,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\GameBoard.cpp(611,20): warning C4018: '<': signed/unsigned mismatch
+  Single Player Chess.cpp
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(243,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(258,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Single Player Chess.cpp(308,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\GameBoard.cpp(523): warning C4715: 'GameBoard::legal': not all control paths return a value
+  Single Player Chess.vcxproj -> C:\Users\SWARAJ SONAVANE\Desktop\PROJECTS\C++\Single Player Chess\Debug\Single Player Chess.exe
